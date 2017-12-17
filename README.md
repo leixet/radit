@@ -1,9 +1,11 @@
-R4dit - Software para radiodifusión.
+R4dit - Programari per a la radiodifusió.
 =============================================
 
 ![Radit-1](https://raw.githubusercontent.com/jfperini/radit/master/screenshots/radit-header.jpg "Radit-1")
 
-#### Radit es un proyecto de software libre para la automatización de emisoras de radio.
+#### Radit és un projecte de programari lliure per a l'automatització d'emisores de ràdio.
+#### Aquest fork es crea per a traduir-lo al català i convertir-lo en la versió Radit Linkat-SoftCatalà, que s'inclou al perfil de ràdio del sistema operatiu Linkat del Departament d'Ensenyament de la Generalitat de Catalunya.
+
 
 Entre otras funciones Radit soporta:
 
