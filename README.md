@@ -45,8 +45,10 @@ El binari generat es troba a la carpeta LinuxDesktop.
 
 ![Radit-2](https://raw.githubusercontent.com/jfperini/radit/master/screenshots/radit-footer.jpg "Radit-2")
 
-Pàgina oficial de Radit: http://www.radit.org/ç
+Pàgina oficial de Radit: http://www.radit.org/
+
 Pàgina de Linkat: http://linkat.xtec.cat/
+
 Pàgina de Softcatalà: https://www.softcatala.org
 
 
