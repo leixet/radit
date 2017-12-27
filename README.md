@@ -7,33 +7,33 @@ R4dit - Programari per a la radiodifusió.
 #### Aquest fork es crea per a traduir-lo al català i convertir-lo en la versió Radit Linkat-SoftCatalà, que s'inclou al perfil de ràdio del sistema operatiu Linkat del Departament d'Ensenyament de la Generalitat de Catalunya.
 
 
-Entre otras funciones Radit soporta:
+Entre altres funcions, Radit permet:
 
-    Crossfade entre audios.
-    Soporte para formatos (MP2, MP3, WAV, WMA, OGG, FLAC).
-    Reproducción aleatoria de carpetas.
-    Sistema de eventos para automatizar nuestros contenidos.
-    Dos reproductores auxiliares y uno principal.
-    Log de emisión
-    Locuciones de hora, temperatura y humedad.
-    Pisadores de entrada y salida.
-    Conexiones con radios on-line.
-    Secuencias y tandas para armar bloques publicitarios o musicales
-    Y mucho más........
+    Foses entre peces d'àudio
+    Compatibilitat amb formats MP2, MP3, WAV, WMA, OGG, FLAC
+    Reproducció aleatòria de carpetes
+    Sistema d'esdeveniments per automatitzar els continguts
+    Dos reproductors auxiliars i un de principal
+    Registre d'emissió
+    Locucions d'hora, temperatura i humitat
+    Trepitjadors d'entrada i sortida.
+    Conexions amb ràdios online.
+    Seqüències i llistes per implementar blocs publicitaris o musicals
+    I molt més...
 
-## Instalar
+## Instal·lació
 
-    En ArchLinux:
+    A ArchLinux:
 
     [user@archlinux:~] yaourt -S radit
     
-Se necesitan algunos permisos. Ejecutar el [script](https://github.com/jfperini/radit/blob/master/radit.sh):
+Es necessiten alguns permisos. Executeu l'[script](https://github.com/jfperini/radit/blob/master/radit.sh):
 
-    [user@archlinux:~] sh ~/Descargas/radit.sh
+    [user@archlinux:~] sh ~/Baixades/radit.sh
     
     [user@archlinux:~] radit
 
-## Compilar
+## Compil·lació
 
     cd src
 
@@ -41,10 +41,12 @@ Se necesitan algunos permisos. Ejecutar el [script](https://github.com/jfperini/
 
     make
 
-El binario generado se encuntra en la carpeta LinuxDesktop.
+El binari generat es troba a la carpeta LinuxDesktop.
 
 ![Radit-2](https://raw.githubusercontent.com/jfperini/radit/master/screenshots/radit-footer.jpg "Radit-2")
 
-Página oficial: http://www.radit.org/net
+Pàgina oficial de Radit: http://www.radit.org/ç
+Pàgina de Linkat: http://linkat.xtec.cat/
+Pàgina de Softcatalà: https://www.softcatala.org
 
 
