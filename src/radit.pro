@@ -137,7 +137,8 @@ DESTDIR = ../LinuxDesktop
 
 #-------------------------------------------------------------
 RESOURCES += \
-    radit.qrc
+    radit.qrc \
+    traduccions.qrc
 
 
 RC_FILE = radit.rc

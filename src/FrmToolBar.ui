@@ -265,7 +265,7 @@ color: rgb(255, 255, 255);
 </string>
      </property>
      <property name="text">
-      <string>Acerca de..</string>
+      <string>Quant a...</string>
      </property>
      <property name="iconSize">
       <size>
@@ -286,7 +286,7 @@ color: rgb(255, 255, 255);
 </string>
      </property>
      <property name="text">
-      <string>Salir</string>
+      <string>Surt</string>
      </property>
     </widget>
    </item>

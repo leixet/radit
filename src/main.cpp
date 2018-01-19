@@ -11,10 +11,23 @@
  **/
 #include <QtGui/QApplication>
 #include "mainwindow.h"
+#include <QTranslator>
+#include <QInputDialog>
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
+    QTranslator T;
+    QStringList langs;
+    langs << "Catalan" << "Spanish";
+    const QString lang = "Catalan";
+
+    if (lang == "Catalan") {
+        T.load(":/ca_ES.qm");
+    }
+    if (lang != "Spanish") {
+        a.installTranslator(&T);
+    }
     MainWindow w;
     //w.show();
     w.showMaximized();

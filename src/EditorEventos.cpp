@@ -75,8 +75,8 @@ void EditorEventos::DelPestana()
 {
     QMessageBox msgBox;
 
-    msgBox.setText("Atención al eliminar la solapa, se eliminaran los eventos asociados");
-    msgBox.setInformativeText("¿Desea continuar?");
+    msgBox.setText("Compte! En eliminar la pestanya s'eliminen tots els esdeveniments que conté.");
+    msgBox.setInformativeText("Segur que voleu continuar?");
     msgBox.setStandardButtons(QMessageBox::Yes | QMessageBox::No);
     msgBox.setDefaultButton(QMessageBox::No);
     msgBox.setIcon(QMessageBox::Question);
@@ -126,7 +126,7 @@ void EditorEventos::AddEvento()
     {
         QMessageBox msgBox;
 
-        msgBox.setText("Debe añadir al menos una solapa");
+        msgBox.setText("Heu d'afegir almenys una pestanya");
         msgBox.setIcon(QMessageBox::Question);
         msgBox.exec();
         return;

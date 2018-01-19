@@ -43,8 +43,8 @@ MainWindow::MainWindow(QWidget *parent) :
     //Cunas * w_Cunas = new Cunas(this);
 
     DockPlayer->setWindowTitle("  Reproductor Principal");
-    DockEvento->setWindowTitle("  Eventos y Hth");
-    DockIndicadores->setWindowTitle("  Indicadores y Log emisión");
+    DockEvento->setWindowTitle("  Esdeveniments i HTH");
+    DockIndicadores->setWindowTitle("  Indicadors i registre d'emissio");
     DockAux1->setWindowTitle("  Auxiliar 1");
     DockAux2->setWindowTitle("  Auxiliar 2");
 

@@ -145,7 +145,7 @@ void AddEventos::ClickAceptar()
     {
         QMessageBox msgBox;
 
-        msgBox.setText("Debe añadir un tipo de evento");
+        msgBox.setText("Heu d'afegir un esdeveniment");
         msgBox.setIcon(QMessageBox::Question);
         msgBox.exec();
         return;
